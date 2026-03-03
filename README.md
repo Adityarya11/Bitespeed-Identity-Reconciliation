@@ -73,3 +73,12 @@ Return JSON
 
    ```
 
+## Live Application
+* **Swagger UI (Testing):** `https://bitespeed-identity-reconciliation-uxrz.onrender.com/docs`
+* **Base Endpoint:** `https://bitespeed-identity-reconciliation-uxrz.onrender.com/identify`
+
+## Tech Stack
+* **Framework:** FastAPI
+* **Database:** PostgreSQL (Hosted on Render)
+* **ORM:** SQLAlchemy
+
