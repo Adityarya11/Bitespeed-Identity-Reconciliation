@@ -11,3 +11,4 @@ wheels/
 .env
 Bitespeed Backend Task_ Identity Reconciliation.pdf
 .python-version
+*.pyc
